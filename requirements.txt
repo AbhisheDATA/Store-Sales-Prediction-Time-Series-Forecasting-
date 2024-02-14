@@ -1,0 +1,5 @@
+pyodbc
+openpyxl
+zipfile
+scipy
+plotly
